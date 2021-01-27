@@ -1,2 +1,2 @@
 # Pandas-Challenge
-This is a repo for Pandas Homework
+This is a repo for Pandas Homework.
